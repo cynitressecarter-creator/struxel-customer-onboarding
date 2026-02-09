@@ -386,7 +386,6 @@ Choose your highest priority finding and write a complete audit finding:
 **Responsible Party:**  
 **Target Completion:**  
 ```
-
 ---
 
 ### Activity 4: Audit Report Summary (45 minutes)
