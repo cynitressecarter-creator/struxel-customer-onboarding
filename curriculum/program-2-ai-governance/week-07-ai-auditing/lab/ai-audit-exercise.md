@@ -381,10 +381,10 @@ Choose your highest priority finding and write a complete audit finding:
 
 ## Management Response
 [Leave blank for management to complete]
-**Concur / Partially Concur / Do Not Concur**
-**Planned Actions:**
-**Responsible Party:**
-**Target Completion:**
+**Concur / Partially Concur / Do Not Concur**  
+**Planned Actions:**  
+**Responsible Party:**  
+**Target Completion:**  
 ```
 
 ---
@@ -539,7 +539,7 @@ Submit the following:
 
 ## Bonus Challenge (Optional)
 
-**Advanced Exercise:** Your audit reveals that patients diagnosed by doctors who used DiagnosticAI have better outcomes than those diagnosed without it. However, the system still has the validation and monitoring gaps you identified. 
+**Advanced Exercise:** Your audit reveals that patients diagnosed by doctors who used DiagnosticAI have better outcomes than those diagnosed without it. However, the system still has the validation and monitoring gaps you identified.  
 
 **Question:** How does this impact your findings and recommendations? Should the system continue to be used while improvements are made? Document your reasoning.
 
