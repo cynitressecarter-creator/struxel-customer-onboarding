@@ -128,7 +128,7 @@ Create a test plan for one audit objective. Include:
 - Critical findings not addressed
 ```
 
-**Your Turn:** Create a test plan for **Data Governance**
+**Your Turn:** Create a test plan for **Data Governance**.
 
 ---
 
