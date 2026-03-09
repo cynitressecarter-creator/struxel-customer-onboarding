@@ -1,0 +1,5 @@
+# Exclude community-platform folder
+community-platform/
+
+# Exclude any other non-deployed directories
+# Add more entries here if needed
